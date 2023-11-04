@@ -51,7 +51,7 @@
 setting>actions>runner>new self hosted runner> choose os> 
 then run command one by one
 
-8. Setup github secrets
+8. Setup github secrets with Github Actions
 
 AWS_ACCESS_KEY_ID=
 
